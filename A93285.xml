@@ -1,0 +1,219 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sinnes suffered for, but not remitted, before they be committed. Or, a confession of faith, different from those that hold it not lawfull to pray for the pardon of sinne. By Henoch Hovvet, Robert Small-Bone, and some others.</title>
+            <author>Howet, Enoch.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93285</idno>
+            <idno type="STC">Wing S3867</idno>
+            <idno type="STC">Thomason E296_13</idno>
+            <idno type="STC">ESTC R200207</idno>
+            <idno type="EEBO-CITATION">99861012</idno>
+            <idno type="PROQUEST">99861012</idno>
+            <idno type="VID">113139</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93285)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113139)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 49:E296[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Sinnes suffered for, but not remitted, before they be committed. Or, a confession of faith, different from those that hold it not lawfull to pray for the pardon of sinne. By Henoch Hovvet, Robert Small-Bone, and some others.</title>
+                  <author>Howet, Enoch.</author>
+                  <author>Small-Bone, Robert.</author>
+               </titleStmt>
+               <extent>[2], 12, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by E.P. for George Whittington, and are to be sold at the shop of Nicholas Bourne, at the south entrance of the Exchange.,</publisher>
+                  <pubPlace>Londgn, [sic] :</pubPlace>
+                  <date>1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Aug: 11th".</note>
+                  <note>The final leaf is blank.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sin --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113139:1" rendition="simple:additions"/>
+            <p>SINNES SUFFERED FOR, But not Remitted, before they be Committed. <hi>OR,</hi> A Confeſſion of Faith, different from thoſe that hold it not lawfull to pray for the Pardon of SINNE.</p>
+            <p>By HENOCH HOVVET, ROBERT SMALL-BONE, And ſome others.</p>
+            <figure>
+               <figDesc>printer's or publisher's device</figDesc>
+               <p>NOLI ALTVM SAP<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </p>
+            </figure>
+            <p>LONDGN, Printed by <hi>E. P.</hi> for <hi>George Whittington,</hi> and are to be ſold at the Shop of <hi>Nicholas Bourne,</hi> at the South entrance of the <hi>Exchange.</hi> 1645.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:113139:2"/>
+            <pb n="1" facs="tcp:113139:2"/>
+            <head>SINNES SVFFERED FOR, But not Remitted, before they be Committed.</head>
+            <p>
+               <seg rend="decorInit">F</seg>Irſt, Wee believe,<note place="margin">Eph. 1.4.</note> 
+               <hi>that there is a People that are choſen before the world, was in Christ;</hi> that is, in the Covenant of his peace (in him) that is, that wee ſhould in time be in him, as new Creatures; after we were old, and ſhould become new, 2 <hi>Cor.</hi> 5.17. And alſo not before Creation, but after wee were Creatures; which choice, wee underſtand that God did fore-know, what he himſelfe d<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d intend to create and bring to paſſe, and not what was made, for then he did but know; If fore-know, then before wee had a being he did know; which fore-knowledge of his, was upon all things to be, becauſe he is the Author of all things: 1 <hi>Cor.</hi> 11.12. and nothing whatſoever could come to paſſe without his determination; ſo, that meanes and ends are all ordained by him.</p>
+            <p>Wee believe,<note place="margin">Iohn 1.3.</note> that this people are choſen to ſalva<g ref="char:EOLhyphen"/>tion; but after this choice, many things doe intervene:
+<pb n="2" facs="tcp:113139:3"/>
+their Election, and the Injoyment of a full ſalvation, as Creation, before which they were not; Sin, which is an Act, or Neglect after they were, which is called the tranſgreſſion of the Law, a waſhing from that Sin, Pardon, Healing, Forgiveneſſe, Remitting, &amp;c. after they were, and ſinnes ſeverally by them committed, by looking up to Chriſt, believing.</p>
+            <p>
+               <note place="margin">Rom. 3.</note>Wee believe, that Remiſſion of Sin is an Act that floweth from the Revelation of the righteouſneſſe of Chriſt, <hi>viz.</hi> as the Sunne in the Firmament, ſending forth his beames, will part two things that are frozen together,<note place="margin">Hoſea 1.5</note> ſo the righteouſneſſe of the Sonne of God appearing, parts the guilt of ſinne, and the ſoule; but forgiveneſſe of ſinne conſiſts of two parts, remit<g ref="char:EOLhyphen"/>ting of their depravity, or diſorder, that is cauſed in the ſoule by ſin, whoſe poyſoned ſting doth as it were diſ-joynt and benumn the whole ſoule,<note place="margin">13.2.</note> making it vnfit for any Communion with God or Saints, cauſing it to run away from God, untill Chriſt our good Shep<g ref="char:EOLhyphen"/>heard ſeek us up, and it is well wee have him; for were it not for him, wee ſhould never leave running from God, to Hell and deſtruction, untill wee periſhed eternally; for it is not our turning, but Chriſts tur<g ref="char:EOLhyphen"/>ning us, whereby wee are delivered.</p>
+            <p>
+               <note place="margin">Rom. 3.25.</note>THe ſecond is, <hi>delivering us from the curſe of the Law,</hi> which is either inward, as Pangs, Torments, blindneſſe of Mind, hardneſſe of Heart, &amp;c. or out<g ref="char:EOLhyphen"/>ward Judgements for ſinne: in the former, man is delivered at the time of his Juſtification wholly, for all that is paſt: But, from the laſt, I meane outward
+<pb n="3" facs="tcp:113139:3"/>
+Judgements, many of the deare Saints, whoſe ſinne in all other ſenſes may be pardoned, yet in this, I meane in delivering from outward Judgements, which are the debts for ſinne (the forgiveneſſe whereof, Chriſt bids us pray for) for ought I know, may not be par<g ref="char:EOLhyphen"/>doned a great part of, or all their life time;<note place="margin">2 Sam. 2.10. 2 Sam. 16.22.</note> as <hi>Davids</hi> ſinne pardoned, yet Gods Judgement for it, (the Sword ſhall never depart, &amp;c. and his wives layne withall in the ſight of the Sunne) continued.</p>
+            <p>
+               <hi>Moyſes,</hi> the Servant of the Lord, yet did die upon Mount <hi>Piſga,</hi> for the ſinne of unbeliefe, and many a redeemed Saint are yet capable of death, and outward affliction, as Child-bearing in ſorrow, &amp;c. which are the rewards of <hi>Adams</hi> ſinne; ſo that the Child-bea<g ref="char:EOLhyphen"/>ring woman, may cry for pardon or eaſe, and ſay in Judgement remember mercie;<note place="margin">Pſa. 119.11.</note> yet theſe are ſo farre from being curſes, that God turnes them all into bleſſings, and makes the elect enjoy them as Servants, for their good: <hi>It is good</hi> (ſaith <hi>David) that I have beene afflicted, for thereby I learned thy ſtatutes;</hi>
+               <note place="margin">Rom, 8.28.</note> all things being ordered by our Chriſt, works together for our good; and this is brought to paſſe by that God, whoſe love cannot be taken from us, by our ſinnes: but as a Father ſhewes moſt love, when his Children are ſick, and lame; ſo Gods healing mercies appeare, when wee are wounded: when ſeven Divells is in a <hi>Mary Magda<g ref="char:EOLhyphen"/>len,</hi> they could not turne off Gods love, but he turnes them out of doores, becauſe of his eternall love, and through his love be unmoveable: yet he never promi<g ref="char:EOLhyphen"/>ſed to keepe them, that they ſhould not ſinne; but when they ſinne, to reſtore them; pardoning is the
+<pb n="4" facs="tcp:113139:4"/>
+continuall portion of a Child, when the wicked ſhall periſh.</p>
+            <p>Wee believe, that ſinne was not before the ſinning perſon had a being, and could not be forgiven him before he was, nor remitted before it was faſtened to the ſoule; the word remit, ſignifies to let goe againe, and could that be, before it had a place?</p>
+            <p>
+               <note place="margin">Mark 11.24.25.<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>6.</note>Wee believe, that the perſon that hath the ſtrongeſt faith that can be, that is, ſo knowing, that he can believe that whilſt he prayeth, that he hath the thing he pray<g ref="char:EOLhyphen"/>eth for, is capable to receive pardon from God; there<g ref="char:EOLhyphen"/>fore not pardoned, before he ſinne.</p>
+            <p>
+               <note place="margin">1 Iohn 2<g ref="char:punc">▪</g> 2.</note>Wee believe, that the Advocate hath nothing to doe for us concerning ſinne, except wee commit it; but if wee ſinne, wee have an Advocate: which <hi>if</hi> im<g ref="char:EOLhyphen"/>plies,<note place="margin">1 Iohn. 1.8.9.</note> that after ſinne be committed, Chriſt doth Ad<g ref="char:EOLhyphen"/>vocate for us; if wee confeſſe our ſinnes, he is faith<g ref="char:EOLhyphen"/>full and juſt to forgive our ſinnes, and to cleanſe us from all unrighteouſneſſe: where it is proved, that ſin may be ſeene, Confeſſed, and Pardoned, after Com<g ref="char:EOLhyphen"/>mitted, and all from a fore-going Covenant, for faith<g ref="char:EOLhyphen"/>fulneſſe implyeth the performance of what was pur<g ref="char:EOLhyphen"/>chaſed; ſo that wee put a difference betwixt the pur<g ref="char:EOLhyphen"/>chaſe, and the faithfull performing of it, which is for<g ref="char:EOLhyphen"/>giving ſinne; and the inheritance of Heaven was pur<g ref="char:EOLhyphen"/>chaſed, and they may as well ſay, they have that now, as to ſay, that they have pardon for ſinne, before it be Committed.</p>
+            <p>
+               <pb n="5" facs="tcp:113139:4"/>I confeſſe, the Popes Bulls was in that manner; ſins paſt, preſent, and to come; and by that they pardon the murthering of a Prince, before it be done; But the Scripture hath no ſuch language, it ſpeakes onely of ſinnes paſt, <hi>Rom.</hi> 3.25.<note place="margin">Ier. 8.22. Mal. 4.2.</note> Wee minde a difference be<g ref="char:EOLhyphen"/>tweene the ſalve in the Chirurgians Box, and the hea<g ref="char:EOLhyphen"/>ling of the wound; the ſalve may be made, before the wound that it ſhall heale be made, but the wound is not heal'd before it be made: therefore there may be Balme in <hi>Gilead,</hi> and yet the health of Gods people not recovered.</p>
+            <p>Wee believe, that the Fountaine that is to be,<note place="margin">Zach. 13.1.</note> or is, ſet open for <hi>Iudah</hi> and <hi>Ieruſalem</hi> to waſh in, is, be<g ref="char:EOLhyphen"/>cauſe ſome, whoſe ſins Chriſt bore upon the Croſſe, are yet unwaſhed.</p>
+            <p>Wee believe, that the ſame Chriſt,<note place="margin">Mal 3.2.</note> which dyed at <hi>Ieruſalem</hi> for the ſinnes of his people, doth ſit as a re<g ref="char:EOLhyphen"/>finer, to doe the worke upon his Saints, in purifying them as often as they ſhall be defiled with ſinne.</p>
+            <p>Wee believe, that Chriſt being yet a Prieſt for ever,<note place="margin">Heb. 6.20.</note> there is no time contained in this <hi>ever</hi> (that is, ſo long as time ſhall be) in which he hath not ſomething to doe for Saints concerning ſinne; which Prieſt<g ref="char:EOLhyphen"/>hood, and advocation, is one and the ſame, which is in caſe of ſinne, and in caſe of Saints ſinning, that are in a Church eſtate: In caſe <hi>Iohn,</hi> or any other that hath that experience that is ſpoken of, in the 1.2.3 verſes, of his firſt Epiſtle, <hi>Wee,</hi> ſaith he, in the firſt verſe of 2. Chapter, of the ſame Epiſtle; ſo that the ſame Chriſt
+<pb n="6" facs="tcp:113139:5"/>
+that was exalted on the right hand, doth now give re<g ref="char:EOLhyphen"/>miſſion of ſinnes, and repentance; ſo that which was bought at his death, was given after his aſcenſion: and therefore Chriſt did not forgive at his death men their ſinnes,<note place="margin">Acts 5.31.</note> that was borne and ſinned after his death, but hee forgives them after.</p>
+            <p>
+               <note place="margin">Revel<g ref="char:punc">▪</g> 3.19.</note>Notwithſtanding, all this wee believe, that Saints ſhall have no evill befall them to deſtruction, but puniſhment for ſinne, from love, unto amendment: as if he ſhould ſay, thou <hi>Laodicea,</hi> thou needſt nothing, but art rich (as they that needs not pray for par<g ref="char:EOLhyphen"/>don, becauſe of Gods love) but my love, if thou ſinne, cannot excuſe thee from my rebuke, looke to it therefore.</p>
+            <p>
+               <note place="margin">Mat. 12.31.</note>Wee believe, that all the ſinnes the Saints ſhall commit, ſhall be pardoned; (ſhall be, is not) our happineſſe conſiſts in being helped,<note place="margin">Micha 7.8.</note> when wee ſhall fall, and no Emunitie wee have from falling; wee ſay,<note place="margin">Dan. 11.35.</note> that is Scripture phraſe, to ſay, ſinne to come ſhall be pardoned, but not to ſay, it is; if it be, then (it is true) it is a meere mocking of God, to aske him to do that, that he hath done already: And thoſe that will not follow the direction of Chriſt, in praying for the pardon of ſinne, are by this ground excuſed, and Chriſts direction is vaine.</p>
+            <div type="part">
+               <pb n="7" facs="tcp:113139:5"/>
+               <p>NOw, wee deſire to conſider of ſome full Texts, that thoſe that oppoſe this Truth, ſay, is a<g ref="char:EOLhyphen"/>gainſt it.</p>
+               <p>Firſt, That of the <hi>Hebrewes,</hi> the 9, and 28. to beare the ſinnes of many; wee acknowledge it to our comfort, whilſt God is glorified therefore, that Chriſt did figuratively beare our ſinnes, they being fore-ſeene, he ſatisfied for all that the Saints ſhould commit: But there is a difference betwixt bea<g ref="char:EOLhyphen"/>ring them, and giving us pardon for them; as the fore-named Text proves, <hi>Act.</hi> 5. <hi>verſ.</hi> 3. That he gave to <hi>Iſrael</hi> forgiveneſſe of ſinnes after hee was exalted.</p>
+               <p>The ſecond Text, <hi>Timothy</hi> 1, 9. We acknowledge, that our ſalvation was given in Chriſt for us before, for it is in the hand of a Mediator; But the ſame Text ſpeakes according to his purpoſe and grace; pur<g ref="char:EOLhyphen"/>poſe, implyes to doe ſomething in time to come: So that ſalvation, and all the concomitance thereof, as peace with God, pardon of ſinne, waſhing from ſinne, Juſtification, Sanctification, Glorificati<g ref="char:EOLhyphen"/>on, was purpoſed to be acted aforetime, and acted in time.</p>
+               <p>
+                  <pb n="8" facs="tcp:113139:6"/>A third Text, is the firſt of the <hi>Epheſians,</hi> the 4.5. We acknowledge, according to this Text, that we were choſen before time, that wee ſhould bee holy without blam; there our blameleſneſſe was to be when we were, to be brought to paſſe in time after our choice; we were choſen to be ſuch; to be is not yet: And therefore all this while pardon of ſinne is not proved, before it hath a being.</p>
+               <p>A fourth Text is, <hi>Iſaiah</hi> 53. <hi>All we like ſheepe have gone aſtray: we have turned everie one to his owne way, and he hath layd on him the iniquities of us all.</hi> This Text ſpeakes to perſons in being, whoſe ſeverall ſinnes is acted; <hi>We have turned everie one to his owne wayes:</hi> therefore this Text proves nothing for them. How<g ref="char:EOLhyphen"/>ever wee acknowledge, that whatſoever Chriſt did for them, hee doth the ſame act, and did beare the ſinnes of all that ſhould bee on the Croſſe fi<g ref="char:EOLhyphen"/>guratively, as aforeſaid; but this is not a giving par<g ref="char:EOLhyphen"/>don to us.</p>
+               <p>A fifth Text is, 26 of <hi>Matthew,</hi> 28. <hi>This is my blood of the new Teſtament, whech is ſhed for manie for the remiſſion of ſinnes: That it is ſhed for,</hi> and it is the whole price of our Redemption. Wee acknowledge the price he payd, purchaſed, and the Sonne of Man hath power to remit ſinnes: And if a meſſage ſhall come from him,<note place="margin">
+                     <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 15.3.</note> ſaying, <hi>Be thou cleane,</hi> then are we clean through the words that he ſpeakes to us, which clean<g ref="char:EOLhyphen"/>ſing is from a Covenant, and the faithfulneſſe of God is tyed to performe it to his Elect, in or after Con<g ref="char:EOLhyphen"/>feſſion: firſt Epiſtle of <hi>Iohn,</hi> 1 Chapter, 9 <hi>verſ. If we
+<pb n="9" facs="tcp:113139:6"/>
+confeſſe our ſinnes, he is faithfull and juſt, to forgive us.</hi>
+               </p>
+               <p>The ſixth Text is, the 10 of the <hi>Hebrews,</hi> 10. <hi>By the which will we are Sanctified, through the offering of the bodie of Chriſt once for all.</hi> This Text doth not prove ſinne pardoned, before Committed; It proves that the will of God produced the comming of Chriſt and his ſufferings; and that act was but once, and for all: that imply'd that act ſatisfied God, and was all that he did require of Chriſt: But ſtill the diſcer<g ref="char:EOLhyphen"/>ning betwixt the death of Chriſt, which was the pur<g ref="char:EOLhyphen"/>chaſe and the act of pardoning, which is convey<g ref="char:EOLhyphen"/>ed by the ſpirit, ſtands; the firſt, being no where called pardon, but the latter in manie places of Scriptures, is called the pardon or forgiveneſſe of ſinnes.</p>
+               <p>In the 14 <hi>verſe, By one offering hee hath perfected for ever them that were ſanctified:</hi> Wee may not un<g ref="char:EOLhyphen"/>derſtand this perfecting to be the pardon of ſinne, though hee purchaſed ſuch a perfect happineſſe for them, as that nothing can change their conditi<g ref="char:EOLhyphen"/>on, and hath wholly the authoritie: as the 1 of <hi>Corinth.</hi> 6. the 11. <hi>Such were ſome of you, but ye are wa<g ref="char:EOLhyphen"/>ſhed, but you are juſtified, but you are ſanctified in the name of the Lord Ieſus, and by the Spirit of our God:</hi> As in the name is meant, in the power and authoritie of the Lord Jeſus, theſe perſons were perfected; but not ſo, as to take away their ſinne before they were ſinners<g ref="char:punc">▪</g> for there you find them ſpoken of, that they were ſinners, and then waſhed.</p>
+               <p>
+                  <pb n="10" facs="tcp:113139:7"/>O, but they ſay, Gods people cannot ſinne in Gods account, and therefore they alledge, <hi>Numbers</hi> 23.24. We anſwer, that <hi>Balaam</hi> ſhewes <hi>Balak</hi> why they were ſo bleſſed; and that was, bec<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uſe they ſtood guiltie of no ſinne: But if you looke in the 25 of <hi>Numbers,</hi> you ſhall ſee that the people ſinned, and God ſaw, and was angry, and puniſhed it, hanging up all the heads of the peo<g ref="char:EOLhyphen"/>ple, and cauſed a great ſlaughter, with the Plague a<g ref="char:EOLhyphen"/>mongſt the reſt: So the Text proves no more: but while <hi>Iſrael</hi> ſtood without ſinne, they proſpe<g ref="char:EOLhyphen"/>red: but when <hi>Iſrael</hi> ſinned by <hi>Achan,</hi> they muſt flye before the men of <hi>Ai.</hi>
+               </p>
+               <p>And alſo they alledge, the firſt Epiſtle of <hi>Iohn,</hi> the 3.9. and the fifth of the ſame Epiſtle, the 18 <hi>verſ.</hi> the words of both ſaith, <hi>Whoſoever is borne of God ſinneth not;</hi> now we alſo in the ſame Epiſtle alledge 3 Texts that prove they doe ſinne; in the firſt Chapter, 8.9. <hi>verſ.</hi> 2 Chapter <hi>verſ.</hi> 1.5. Chapter <hi>verſ.</hi> 16. of the ſame Epiſtle.</p>
+               <p>Now to reconcile this ſeeming contradiction, <hi>Iohn,</hi> and thoſe that hee calls <hi>wee,</hi> were <hi>borne of God;</hi> yet he ſaith, <hi>If we ſay, that we have no ſinne:</hi> Thoſe that are called little Children, are <hi>borne of God;</hi> yet he implyes a poſſibilitie of their ſinning, Thirdly, <hi>He that is a brother indeed is borne of God,</hi> and that ſhall have life; and yet hee implyeth, that he may ſinne.</p>
+               <p>
+                  <pb n="11" facs="tcp:113139:7"/>And now to reconcile this, let <hi>Iohn</hi> expound himſelfe, and it will be plaine in the 16 <hi>verſ.</hi> of the 5 Chapter; where hee grants, that a brother may ſinne, <hi>That is not unto death;</hi> then the re<g ref="char:EOLhyphen"/>ſult muſt needs be, that he that is borne of God, cannot ſinne the ſinne that is unto death, or the unpardonable ſinne, that ſinne that is not to bee prayed for, ſo we ſhall ſay with <hi>Moſes,</hi> the Lord pardon our ſinnes, as hee hath pardoned our for<g ref="char:EOLhyphen"/>mer ſinnes, <hi>Numbers</hi> 14. Chapter, 19. <hi>verſ.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <p>NOw followeth certaine Reaſons, why wee can<g ref="char:EOLhyphen"/>not have Communion with them that pray not for the pardon of ſinne, nor with thoſe that ſay, ſinne is pardoned before it be committed.</p>
+               <p>For the firſt, becauſe they that know not the poſture of a redeeming Child in Chriſt, and there<g ref="char:EOLhyphen"/>fore though they talke of God with their mouths,<note place="margin">Iohn 16.26.</note> have life from him, and in asking and receiving, they taſte not: the ſame God, whoſe Covenant revealed rejoyces the heart, doth alſo rejoyce the heart in the continuall performance of it.</p>
+               <p>The ſecond Reaſon, thoſe that doe not aske Gods pardon for ſinne, and receive it after they have committed it, it is apparent, that they nei<g ref="char:EOLhyphen"/>ther felt the ſence of ſinne, (for if they did, they would cry to God) nor the ſweetneſſe of pardon
+<pb n="12" facs="tcp:113139:8"/>
+for they would know, that asking in faith, they doe receive forgiveneſſe of their ſinnes.</p>
+               <p>For the Second, they darken councell with words without knowledge,<note place="margin">Job 38.2.</note> ſaying, ſinne is par<g ref="char:EOLhyphen"/>doned before it bee committed. Chriſt coun<g ref="char:EOLhyphen"/>cells us to pray for the pardon of ſinne, and they by words, without knowledge, ſaying, That ſinne is pardoned before it be committed, dark<g ref="char:EOLhyphen"/>neth the councell of Chriſt to the former people, who juſtly ſay, if it be pardoned, it need not to be prayed for: and wee judge them as upright as thoſe which ſay, it is pardoned, and yet can pray for the pardon of it.</p>
+               <p>The ſecond ſort of people, that ſay, it is pardoned before it is committed, adde to the Word of God, for they ſay in Gods name, that which no Scripture holds forth; that ſinne is pardoned before it is committed, and they cauſe the firſt to take from the word; that is, to make the wordes of Chriſt of no uſe, who bids us pray for the pardon of ſinne, and ſo are under a curſe.</p>
+               <p>
+                  <note place="margin">Reve. 2.14.</note>Thirdly, they lay a ſtumbling block before the eyes of the weake, and cauſe them to ſtumble at the asking pardon for their ſinnes.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <p>GEntle Reader, I intreat you to correct theſe omiſſions eſcaped in Printing, <hi>page 11. line 15. for,</hi> becauſe they that know, <hi>read,</hi> becauſe they know. <hi>pag. ibid. line 16. for</hi> redeeming <hi>read</hi> re<g ref="char:EOLhyphen"/>deemed, <hi>page ibid. line 18. for,</hi> have life from him, and, <hi>read</hi> life from him.</p>
+            <pb facs="tcp:113139:8"/>
+         </div>
+      </back>
+   </text>
+</TEI>
